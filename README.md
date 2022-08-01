@@ -1,4 +1,4 @@
-# seaborn-tutorials-zn
+# seaborn-tutorials-zh
 
 [Official seaborn tutorials](https://seaborn.pydata.org/tutorial.html) in Chinese. Help to figure out all the details in Seaborn!
 
